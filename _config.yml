@@ -18,16 +18,16 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-sa
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: CollectionBuilder SA
+title: Test Archive
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: Digital Collection Magic with Static Web Technologies
+tagline: A Demonstration of My Capabilities on Making a Website
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "CollectionBuilder-SA is a template for creating digital collection exhibits using static web technology."
+description: "Solid may website na 'ko"
 # keywords, a short list of subjects describing the collection, separated by semicolon, to appear in rich markup
-keywords: idaho;history;inland northwest
+keywords: test site;Lance;archive
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
-author: CollectionBuilder
+author: thebucketman
 # Organization branding
 organization-name: "Digital Initiatives, University of Idaho Library"
 organization-link: https://www.lib.uidaho.edu/digital/
