@@ -14,7 +14,9 @@ credits: true
 
 ## About the Collection
 
-This demo collection features items from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital/), and is build using [CollectionBuilder-SA](https://github.com/CollectionBuilder/collectionbuilder-sa).
+This test archive features snippets of my personal computer and my life; though just four items currently, it could be a great help in discovering a way to me learning about tools to organize information, which is a very helpful skill to have in these days of information overload and ease of use of information tools (i.e., smartphones).
+
+Thanks to [CollectionBuilder-SA](https://github.com/CollectionBuilder/collectionbuilder-sa) for being a wonderful and easy-to-use tool in creating digital archives.
 
 CollectionBuilder-SA is a "Stand Alone" template for creating digital collection and exhibit websites using Jekyll, given:
 
