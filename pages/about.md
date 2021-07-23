@@ -32,5 +32,9 @@ See [CB Docs](https://collectionbuilder.github.io/cb-docs/) for detailed informa
 {% include feature/image.html objectid="item_002" width="50" %}
 
 Peace.
-<!-- IMPORTANT!!! DELETE everything below this comment (and this comment) when you are finished editing this page for your collection. The included file below includes instructions for inserting features into your about page. They will show up on your collection's about page until you delete it.  -->
-{% include cb/about_the_about.md %}
+
+<!-- IMPORTANT!!! DELETE everything below this comment (and this comment) when you are finished editing this page for your collection. The included file below includes instructions for inserting features into your about page. They will show up on your collection's about page until you delete it.
+
+{% include cb/about_the_about.md %} 
+
+Commenting the code for future use; hindi pa 'ko marunong mag-Liquid eh hahaha-->
